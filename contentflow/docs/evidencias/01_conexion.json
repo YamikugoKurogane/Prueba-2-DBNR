@@ -1,0 +1,24 @@
+{
+  "generado": "2026-11-12T00:21:58",
+  "datos": {
+    "ping": "ok",
+    "version_servidor": "8.0.37",
+    "base_de_datos": "ClusterPrimario",
+    "write_concern": {
+      "w": "majority"
+    },
+    "read_concern": {
+      "level": "majority"
+    },
+    "colecciones": [
+      "campanas",
+      "publicaciones",
+      "usuarios",
+      "comentarios",
+      "auditoria_correcciones",
+      "reacciones"
+    ],
+    "almacenamiento_MB": 0.52,
+    "limite_M0_MB": 512
+  }
+}
